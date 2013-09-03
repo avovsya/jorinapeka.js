@@ -1,0 +1,7 @@
+
+* About
+  This is the attempt to create a clone of the
+  [[Jorinopeka][http://jayisgames.com/games/jorinapeka/]] game in Javascript
+
+* Motivation
+  The game is developed for the study of a Javascript Canvas API
